@@ -5,7 +5,5 @@
 
 1. mkdir build && cd build
 2. cmake ..
-WINDOWS
-3. можно собрать через сгенерированный solution
-UNIX
-3. make
+3. WINDOWS: можно собрать через сгенерированный solution
+   UNIX: make
